@@ -50,6 +50,11 @@ path=(
 )
 
 #
+# Android
+#
+export ANDROID_HOME=`brew --prefix android-sdk`
+
+#
 # Less
 #
 
